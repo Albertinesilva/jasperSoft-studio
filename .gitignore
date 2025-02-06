@@ -1,3 +1,6 @@
+# Ignore the .metadata directory
+.metadata/
+
 # Ignorar arquivos temporários e logs
 *.log
 *.tmp
