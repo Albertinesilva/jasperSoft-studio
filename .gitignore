@@ -1,0 +1,24 @@
+# Ignorar arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignorar arquivos do JasperSoft Studio
+*.jasper
+*.jrprint
+*.xml~ 
+*.properties~
+*.class
+*.cache
+*.DS_Store
+
+# Ignorar dependências do Eclipse e arquivos de configuração locais
+.classpath
+.project
+.settings/
+bin/
+target/
+
+# Ignorar arquivos do Git relacionados a conflitos
+*.orig
